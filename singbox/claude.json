@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "claude.ai"
+            ],
+            "domain_keyword": [
+                "claude"
+            ],
+            "domain_suffix": [
+                ".claude.ai"
+            ]
+        }
+    ]
+}

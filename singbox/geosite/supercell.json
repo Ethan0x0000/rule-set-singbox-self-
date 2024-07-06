@@ -2,6 +2,9 @@
     "version": 1,
     "rules": [
         {
+            "port": [
+                9339
+            ],
             "domain": [
                 "id.supercell.com",
                 "cdn.id.supercell.com"

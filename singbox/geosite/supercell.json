@@ -2,21 +2,26 @@
     "version": 1,
     "rules": [
         {
-            "port": [
-                9339
+            "type": "logical",
+            "mode": "or",
+            "rules": [
+                {
+                    "domain": [
+                        "id.supercell.com",
+                        "cdn.id.supercell.com"
+                    ],
+                    "domain_suffix": [
+                        ".supercell.com",
+                        ".clashofclans.com"
+                    ]
+                },
+                {
+                    "port": [
+                        9339
+                    ]
+                }
             ],
-            "domain": [
-                "id.supercell.com",
-                "cdn.id.supercell.com"
-            ],
-            "domain_suffix": [
-                ".supercell.com",
-                ".clashofclans.com"
-            ],
-            "domain_keyword": [
-                "supercell",
-                "clashofclans"
-            ]
+            "invert": false
         }
     ]
 }

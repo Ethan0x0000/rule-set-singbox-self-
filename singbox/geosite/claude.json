@@ -2,14 +2,13 @@
     "version": 1,
     "rules": [
         {
-            "domain": [
+            "domain_suffix": [
+                "anthropic.com",
                 "claude.ai"
             ],
             "domain_keyword": [
+                "anthropic",
                 "claude"
-            ],
-            "domain_suffix": [
-                ".claude.ai"
             ]
         }
     ]

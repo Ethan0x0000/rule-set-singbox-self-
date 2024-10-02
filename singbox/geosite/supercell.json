@@ -8,14 +8,17 @@
                 {
                     "domain": [
                         "id.supercell.com",
-                        "cdn.id.supercell.com",
-                        "id.atrasis.com",
-                        "cdn.id.atrasis.com"
+                        "cdn.id.supercell.com"
                     ],
                     "domain_suffix": [
                         ".supercell.com",
                         ".clashofclans.com",
-                        ".atrasis.com"
+                        ".atrasis.net",
+                        ".atrasis.cc"
+                    ],
+                    "domain_keyword":[
+                        "supercell",
+                        "atrasis"
                     ]
                 },
                 {

@@ -1,3 +1,7 @@
 payload:
-  - "+.supercell.com"
-  - "+.clashofclans.com"
+  - 'DOMAIN-SUFFIX,clashk.ing'
+  - 'DOMAIN-SUFFIX,atrasis.cc'
+  - 'DOMAIN-SUFFIX,atrasis.net'
+  - 'DOMAIN-SUFFIX,supercell.com'
+  - 'DOMAIN-SUFFIX,clashofclans.com'
+  - 'DST-PORT,9339'

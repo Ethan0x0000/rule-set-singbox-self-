@@ -1,2 +1,4 @@
 payload:
   - 'DOMAIN-SUFFIX,armvm.com'
+  - 'DOMAIN-SUFFIX,cn'
+  - 'DOMAIN-KEYWORD,cdn'
